@@ -1,0 +1,42 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+gas-report.txt
+coverage.json
+yarn-error.log
+
+#Hardhat files
+cache
+artifacts
+
+node_modules
+.env
+coverage
+coverage.json
+typechain
+
+#Hardhat files
+cache
+artifacts
+
+node_modules
+.env
+coverage
+coverage.json
+typechain
+
+#Hardhat files
+cache
+artifacts
+
+node_modules
+.env
+coverage
+coverage.json
+typechain
+
+#Hardhat files
+cache
+artifacts
